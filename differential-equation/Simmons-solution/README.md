@@ -147,7 +147,7 @@ make verify
 * The license does **not** cover the textbook or any material from it.
 
 ## Citation
-> [YOUR NAME] (2026). *Worked Solutions to Simmons' Differential Equations with Applications and Historical Notes (3rd ed.)*. GitHub repository.
+> Shailendra Dabral (2026). *Worked Solutions to Simmons' Differential Equations with Applications and Historical Notes (3rd ed.)*. GitHub repository.
 
 ## For rights holders
-If you believe any content here infringes your rights, please open an issue or contact [YOUR CONTACT]; it will be reviewed promptly.
+If you believe any content here infringes your rights, please open an issue or contact shailendradabral445@gmail.com; it will be reviewed promptly.
